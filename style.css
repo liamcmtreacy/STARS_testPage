@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Playpen+Sans+Deva&display=swap');
+
+body { /* purple background */
+    margin: 0;
+    background-color: #5D5893;
+    color: white;
+    font-family: "Playpen Sans Deva", sans-serif;
+    text-align: center;
+}
+
+/* Navy header with P. Marker COLOUR #09045F*/
+
+header {
+    background-color: #09045F;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-family: "Permanent Marker", cursive;
+    font-size: 40px;
+    color: white;
+}
+
+/* Text below header*/
+
+main {
+    padding-top: 200px;
+}
+
+main h2 {
+    font-family: "Playpen Sans Deva", cursive;
+    font-size: 80px;
+    color: white;
+    margin: 0;
+}
+
+main h3 {
+    font-family: "Playpen Sans Deva", cursive;
+    font-size: 30px;
+    color: white;
+}
